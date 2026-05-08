@@ -1,21 +1,88 @@
 # AkademiQ_DataScience
 
-Bu repository, AkademiQ Data Science eğitimi boyunca aldığım haftalık notları, uygulamaları ve pratik çalışmalarımı içermektedir.
+Bu repository, AkademiQ Data Science eğitimi boyunca haftalık olarak hazırlanan notları ve uygulamaları içermektedir.
 
-İlk hafta kapsamında temel veri analizi ve veri ön işleme süreçleri üzerine çalışılmıştır. Bu süreçte:
+---
 
-* Pandas ve NumPy kütüphanelerinin kullanımı
-* CSV veri setlerinin okunması
-* Veri setinin genel yapısının incelenmesi
-* Sütun ve satır analizleri
-* Eksik veri kontrolü
-* Eksik veri oranlarının hesaplanması
-* Sütun isimlerinin standardizasyonu
-* String verilerin temizlenmesi
+# [1. Hafta](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/AkademiQ_Data_Science_01.ipynb)
+
+* Veri analizi ve preprocessing temelleri
+* Pandas & NumPy kullanımı
+* Veri seti okuma ve inceleme
+* Eksik veri analizi
+* String temizleme ve standartlaştırma
 * Veri tipi dönüşümleri
-* Sayısal verilerin düzenlenmesi
-* Veri temizleme ve preprocessing adımları
 
-gibi temel veri bilimi konuları uygulanmıştır.
+---
 
-Repository, eğitim süreci boyunca her hafta yeni konular ve farklı veri setleriyle güncellenmeye devam edecektir.
+# [2. Hafta](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/AkademiQ_Data_Science_02.ipynb)
+
+* Veri kalitesinin model performansına etkisi
+* MCAR / MAR / MNAR eksik veri türleri
+* Eksik veri analizi ve görselleştirme
+* Ortalama, medyan ve skewness karşılaştırmaları
+* Korelasyon ve eksik veri ilişkisi
+* Heatmap ile veri analizi
+
+---
+
+# [3. Hafta](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/AkademiQ_Data_Science_03.docx)
+
+* Makine öğrenmesine giriş
+* Denetimli / Denetimsiz / Takviyeli öğrenme
+* Sınıflandırma ve regresyon problemleri
+* Temel algoritmalar (Linear, Tree, RF, XGBoost vb.)
+* Kümeleme (K-Means, DBSCAN)
+* Boyut indirgeme (PCA, t-SNE, UMAP)
+* Model değerlendirme metrikleri
+* Overfitting / Underfitting
+* Validation yöntemleri
+
+---
+
+# [4. Hafta](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/AkademiQ_Data_Science_04.ipynb)
+
+* Veri problem tipine göre öğrenme seçimi
+
+  * Etiket varsa → Denetimli öğrenme
+  * Etiket yoksa → Denetimsiz öğrenme
+  * Aksiyon + ödül varsa → Takviyeli öğrenme
+* Veri temizleme ve feature engineering yaklaşımı
+* Regex ile veri temizleme
+* Feature extraction (zaman, coğrafi, weather features)
+* Kategorik ve sayısal veri ayrımı
+* Pipeline mantığı
+* ColumnTransformer kullanımı
+* Eksik veri doldurma (SimpleImputer)
+* OrdinalEncoder ile encoding
+* Model karşılaştırma (Linear, Decision Tree, Random Forest)
+* Cross-validation mantığı
+* Regresyon problemleri (delivery time tahmini)
+* Model performans değerlendirme (MAE, RMSE, R²)
+
+---
+
+# [5. Hafta](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/AkademiQ_Data_Science_05.ipynb)
+
+* Gerçek dünya veri seti (UCI Bank Marketing)
+* Classification problemi kurulumu
+* Target encoding (yes/no → 1/0)
+* Train-test split ve stratify kullanımı
+* Pipeline yapısı ile uçtan uca ML sistemi
+* Eksik veri imputation stratejileri
+* OneHotEncoding ile kategorik veri işleme
+* Decision Tree Classifier kurulumu
+* Class imbalance handling (`class_weight`)
+* Model evaluation:
+
+  * Precision
+  * Recall
+  * F1-score
+  * ROC-AUC
+* Confusion matrix analizi
+* Decision tree görselleştirme
+
+---
+
+Bu repo, her hafta yeni veri setleri ve farklı makine öğrenmesi senaryoları ile güncellenmeye devam etmektedir.
+
