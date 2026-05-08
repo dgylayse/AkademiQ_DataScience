@@ -24,7 +24,7 @@ Bu repository, AkademiQ Data Science eğitimi boyunca haftalık olarak hazırlan
 * Ortalama, medyan ve skewness karşılaştırmaları
 * Korelasyon ve eksik veri ilişkisi
 * Heatmap ile veri analizi
-* Kullanılan data set:[ecommerce_synthetic.csv](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_2_Data_Set%3A%20ecommerce_synthetic.csv)
+* Kullanılan data set: [ecommerce_synthetic.csv](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_2_Data_Set%3A%20ecommerce_synthetic.csv)
 
 ---
 
