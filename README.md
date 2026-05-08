@@ -12,6 +12,7 @@ Bu repository, AkademiQ Data Science eğitimi boyunca haftalık olarak hazırlan
 * Eksik veri analizi
 * String temizleme ve standartlaştırma
 * Veri tipi dönüşümleri
+* Kullanılan data set: [github_top_repositories.csv](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_1_Data_Set%3A%20github_top_repositories.csv)
 
 ---
 
@@ -23,6 +24,7 @@ Bu repository, AkademiQ Data Science eğitimi boyunca haftalık olarak hazırlan
 * Ortalama, medyan ve skewness karşılaştırmaları
 * Korelasyon ve eksik veri ilişkisi
 * Heatmap ile veri analizi
+* Kullanılan data set:[ecommerce_synthetic.csv](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_2_Data_Set%3A%20ecommerce_synthetic.csv)
 
 ---
 
@@ -59,6 +61,7 @@ Bu repository, AkademiQ Data Science eğitimi boyunca haftalık olarak hazırlan
 * Cross-validation mantığı
 * Regresyon problemleri (delivery time tahmini)
 * Model performans değerlendirme (MAE, RMSE, R²)
+* Kullanılar data set: [Food_Delivery_Times.csv](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_4_Data_Set%3A%20Food_Delivery_Times.csv)
 
 ---
 
