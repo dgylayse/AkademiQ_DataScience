@@ -77,7 +77,7 @@ Bu repository, AkademiQ Data Science eğitimi boyunca haftalık olarak hazırlan
 * Decision tree görselleştirme
 
 ---
-[6. Hafta](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/AkademiQ_Data_Science_06.ipynb)
+# [6. Hafta](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/AkademiQ_Data_Science_06.ipynb)
 
 * Denetimsiz öğrenme (Unsupervised Learning) temelleri
 * Etiketsiz veri mantığı ve veri geometrisi yaklaşımı
