@@ -45,10 +45,6 @@ Bu repository, AkademiQ Data Science eğitimi boyunca haftalık olarak hazırlan
 # [4. Hafta](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/AkademiQ_Data_Science_04.ipynb)
 
 * Veri problem tipine göre öğrenme seçimi
-
-  * Etiket varsa → Denetimli öğrenme
-  * Etiket yoksa → Denetimsiz öğrenme
-  * Aksiyon + ödül varsa → Takviyeli öğrenme
 * Veri temizleme ve feature engineering yaklaşımı
 * Regex ile veri temizleme
 * Feature extraction (zaman, coğrafi, weather features)
@@ -77,14 +73,37 @@ Bu repository, AkademiQ Data Science eğitimi boyunca haftalık olarak hazırlan
 * Decision Tree Classifier kurulumu
 * Class imbalance handling (`class_weight`)
 * Model evaluation:
-
-  * Precision
-  * Recall
-  * F1-score
-  * ROC-AUC
 * Confusion matrix analizi
 * Decision tree görselleştirme
 
+---
+[6. Hafta](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/AkademiQ_Data_Science_06.ipynb)
+
+* Denetimsiz öğrenme (Unsupervised Learning) temelleri
+* Etiketsiz veri mantığı ve veri geometrisi yaklaşımı
+* Clustering (kümeleme) kavramı
+* Dimensionality Reduction (boyut azaltma) kavramı
+* K-Means algoritmasının çalışma mantığı
+* Cluster merkezi (centroid) yaklaşımı
+* K-Means’in güçlü ve zayıf yönleri
+* Scaling’in clustering üzerindeki kritik etkisi
+* StandardScaler kullanımı
+* Elbow Method ile optimal cluster sayısı analizi
+* Inertia kavramı
+* Pipeline ile clustering sistemi kurulumu
+* Cluster label üretimi
+* Silhouette Score ile cluster kalitesi ölçümü
+* Silhouette score yorumlama
+* PCA (Principal Component Analysis) mantığı
+* Curse of Dimensionality kavramı
+* DBSCAN mantığı
+* Yoğunluk tabanlı clustering yaklaşımı
+* Outlier/noise tespiti
+* K-Means vs DBSCAN farkları
+* PCA + Clustering pipeline mantığı
+* Modern unsupervised learning pipeline’ları
+* Veri davranışına göre algoritma seçimi
+* Production seviyesinde unsupervised learning bakış açısı
 ---
 
 Bu repo, her hafta yeni veri setleri ve farklı makine öğrenmesi senaryoları ile güncellenmeye devam etmektedir.
