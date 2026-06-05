@@ -104,6 +104,26 @@ Bu repository, AkademiQ Data Science eğitimi boyunca haftalık olarak hazırlan
 * Modern unsupervised learning pipeline’ları
 * Veri davranışına göre algoritma seçimi
 * Production seviyesinde unsupervised learning bakış açısı
+
+---
+# [7. Hafta](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/AkademiQ_Data_Science_07.ipynb)
+
+* Denetimsiz öğrenme ve veri içindeki yapıları keşfetme
+* DBSCAN algoritması ve temel mantığı
+* eps ve min_samples parametreleri
+* Core, border ve noise noktaları
+* Online Retail veri seti ile müşteri analizi
+* Feature engineering (TotalOrders, TotalQuantity, TotalSpent)
+* Veriyi ölçeklendirme (StandardScaler)
+* K-distance grafiği ile eps seçimi
+* DBSCAN modeli ile kümeleme
+* Aykırı değer (noise) tespiti
+* Müşteri segmentasyonu
+* Küme sonuçlarının yorumlanması
+* PCA ile boyut indirgeme ve görselleştirme
+* 2D/3D cluster görselleştirme
+* DBSCAN’in avantajları ve sınırlamaları
+* Kullanılan data set: [Online Retail.xlsx](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_7_Data_Set%3A%20Online%20Retail.xlsx)
 ---
 
 Bu repo, her hafta yeni veri setleri ve farklı makine öğrenmesi senaryoları ile güncellenmeye devam etmektedir.
