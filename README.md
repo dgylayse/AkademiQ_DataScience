@@ -125,6 +125,38 @@ Bu repository, AkademiQ Data Science eğitimi boyunca haftalık olarak hazırlan
 * DBSCAN’in avantajları ve sınırlamaları
 * Kullanılan data set: [Online Retail.xlsx](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_7_Data_Set%3A%20Online%20Retail.xlsx)
 ---
+# [8. Hafta](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/AkademiQ_Data_Science_08.ipynb)
 
+* SVM (Support Vector Machine)
+* C parametresi ve hata toleransı
+* Kernel Trick ve RBF Kernel
+* Gamma parametresi
+* EDA (Keşifsel Veri Analizi)
+* Label Encoding
+* Train-Test Split
+* StandardScaler ile ölçeklendirme
+* SVM model eğitimi
+* Accuracy, Precision, Recall, F1, ROC-AUC değerlendirmeleri
+* Müşteri kayıp riski (churn) tahmini
+* GridSearchCV ile parametre optimizasyonu
+* Kullanılan data set: [Online Retail.xlsx](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_8-9_Data_Set%3A%20musteri_rfm_dt.csv)
+---
+# [9. Hafta](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/AkademiQ_Data_Science_09.ipynb)
+
+* Karar Ağacı (Decision Tree) ile çok sınıflı sınıflandırma
+* EDA (Keşifsel Veri Analizi)
+* One-Hot Encoding ve Label Encoding
+* Train-Test Split
+* Hiperparametre optimizasyonu
+* max_depth, min_samples_split, criterion parametreleri
+* GridSearchCV kullanımı
+* RandomizedSearchCV kullanımı
+* Optuna ile hiperparametre optimizasyonu
+* Cross Validation (CV)
+* Accuracy ile model değerlendirme
+* En iyi model parametrelerinin seçimi
+* Müşteri segment tahmini (sadık, riskli, kayıp, şampiyon)
+* Kullanılan data set: [Online Retail.xlsx](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_8-9_Data_Set%3A%20musteri_rfm_dt.csv)
+---
 Bu repo, her hafta yeni veri setleri ve farklı makine öğrenmesi senaryoları ile güncellenmeye devam etmektedir.
 
