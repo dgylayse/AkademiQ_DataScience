@@ -139,7 +139,7 @@ Bu repository, AkademiQ Data Science eğitimi boyunca haftalık olarak hazırlan
 * Accuracy, Precision, Recall, F1, ROC-AUC değerlendirmeleri
 * Müşteri kayıp riski (churn) tahmini
 * GridSearchCV ile parametre optimizasyonu
-* Kullanılan data set: [Online Retail.xlsx](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_8-9_Data_Set%3A%20musteri_rfm_dt.csv)
+* Kullanılan data set: [musteri_rfm_dt.csv](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_8-9_Data_Set%3A%20musteri_rfm_dt.csv)
 ---
 # [9. Hafta](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/AkademiQ_Data_Science_09.ipynb)
 
@@ -156,7 +156,7 @@ Bu repository, AkademiQ Data Science eğitimi boyunca haftalık olarak hazırlan
 * Accuracy ile model değerlendirme
 * En iyi model parametrelerinin seçimi
 * Müşteri segment tahmini (sadık, riskli, kayıp, şampiyon)
-* Kullanılan data set: [Online Retail.xlsx](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_8-9_Data_Set%3A%20musteri_rfm_dt.csv)
+* Kullanılan data set: [musteri_rfm_dt.csv](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_8-9_Data_Set%3A%20musteri_rfm_dt.csv)
 ---
 Bu repo, her hafta yeni veri setleri ve farklı makine öğrenmesi senaryoları ile güncellenmeye devam etmektedir.
 
