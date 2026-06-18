@@ -158,5 +158,21 @@ Bu repository, AkademiQ Data Science eğitimi boyunca haftalık olarak hazırlan
 * Müşteri segment tahmini (sadık, riskli, kayıp, şampiyon)
 * Kullanılan data set: [musteri_rfm_dt.csv](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_8-9_Data_Set%3A%20musteri_rfm_dt.csv)
 ---
+# [10. Hafta](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/AkademiQ_Data_Science_10.ipynb)
+* Sağlık verisi üzerinde kümeleme analizi
+* Veri temizleme ve ön işleme
+* Tarih verilerinden yeni özellik üretme (Length of Stay)
+* One-Hot Encoding ile kategorik veri dönüşümü
+* Feature Engineering
+* StandardScaler ile veri ölçeklendirme
+* K-Means kümeleme algoritması
+* Küme (cluster) oluşturma ve yorumlama
+* Elbow Method ile optimum k değeri seçimi
+* Inertia kavramı
+* Silhouette Score ile küme kalitesi değerlendirme
+* Sağlık verilerinde hasta segmentasyonu
+* Denetimsiz öğrenme uygulaması (Unsupervised Learning)
+* Kullanılan data set: [healthcare_dataset.csv](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_10_Data_Set%3A%20healthcare_dataset.csv)
+---
 Bu repo, her hafta yeni veri setleri ve farklı makine öğrenmesi senaryoları ile güncellenmeye devam etmektedir.
 
