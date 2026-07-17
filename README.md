@@ -156,7 +156,7 @@ Bu repository, AkademiQ Data Science eğitimi boyunca haftalık olarak hazırlan
 * Accuracy ile model değerlendirme
 * En iyi model parametrelerinin seçimi
 * Müşteri segment tahmini (sadık, riskli, kayıp, şampiyon)
-* Kullanılan data set: [musteri_rfm_dt.csv](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_8-9-11_Data_Set%3A%20musteri_rfm_dt.csv)
+* Kullanılan data set: [musteri_rfm_dt.csv](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_8-9-11-12_Data_Set%3A%20musteri_rfm_dt.csv)
 ---
 # [10. Hafta](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/AkademiQ_Data_Science_10.ipynb)
 * Sağlık verisi üzerinde kümeleme analizi
@@ -183,8 +183,19 @@ Bu repository, AkademiQ Data Science eğitimi boyunca haftalık olarak hazırlan
 * Model parametrelerini (C, gamma, kernel) loglama
 * Model ve artifact dosyalarını MLflow'a kaydetme
 * Deneylerin MLflow arayüzünde karşılaştırılması
-* Kullanılan data set: [musteri_rfm_dt.csv](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_8-9-11_Data_Set%3A%20musteri_rfm_dt.csv)
+* Kullanılan data set: [musteri_rfm_dt.csv](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_8-9-11-12_Data_Set%3A%20musteri_rfm_dt.csv)
 * Kullanılan desarilize: [svm_model.pkl](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_11_Desarilize%20%3Asvm_model.pkl)
+---
+# [12. Hafta](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/AkademiQ_Data_Science_12.ipynb)
+* MLflow'u SQLite veritabanı ile yapılandırma
+* Veri hazırlama ve SVM modelini yükleme
+* Model metriklerini MLflow'a kaydetme
+* Parametre ve artifact loglama
+* Run ID ve deney sonuçlarını listeleme
+* Model Registry'e model kaydetme
+* Model sürümü oluşturma ve Production aşamasına taşıma
+* Kullanılan data set: [musteri_rfm_dt.csv](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_8-9-11-12_Data_Set%3A%20musteri_rfm_dt.csv)
+* Kullanılan desarilize: [svm_model.pkl](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_11-12_Desarilize%20%3Asvm_model.pkl)
 ---
 Bu repo, her hafta yeni veri setleri ve farklı makine öğrenmesi senaryoları ile güncellenmeye devam etmektedir.
 
