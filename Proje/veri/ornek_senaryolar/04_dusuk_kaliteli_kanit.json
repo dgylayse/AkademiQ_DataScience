@@ -1,0 +1,17 @@
+{
+  "senaryo_adi": "Düşük Kaliteli Kanıt İle İade",
+  "siparis_verisi": {
+    "order_id": "ORD-1004",
+    "status": "delivered",
+    "days_since_delivery": 2
+  },
+  "musteri_mesaji": "Kutuyu açtım ama ürün çalışmıyor, bozuk bu.",
+  "iade_gecmisi": {
+    "total_returns": 3,
+    "abusive_behavior_flag": true
+  },
+  "politika": {
+    "version": "v1.2",
+    "rule": "Hasarlı veya çalışmayan ürünler için müşterinin görsel kanıt ve detaylı açıklama sunması zorunludur."
+  }
+}

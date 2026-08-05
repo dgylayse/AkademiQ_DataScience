@@ -1,0 +1,17 @@
+{
+  "senaryo_adi": "Tekrarlanan İade İşlemi",
+  "siparis_verisi": {
+    "order_id": "ORD-1005",
+    "status": "refunded",
+    "days_since_delivery": 10
+  },
+  "musteri_mesaji": "Geçen gün iade talebi oluşturdum ama hesabıma para geçmedi, işlemi tekrar yapın.",
+  "iade_gecmisi": {
+    "total_returns": 1,
+    "abusive_behavior_flag": false
+  },
+  "politika": {
+    "version": "v1.2",
+    "rule": "Sistemsel durumu 'refunded' olan siparişler için hiçbir yeni iade aksiyonu alınamaz."
+  }
+}

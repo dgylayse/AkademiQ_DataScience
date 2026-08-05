@@ -1,0 +1,17 @@
+{
+  "senaryo_adi": "Temel Başarılı İade",
+  "siparis_verisi": {
+    "order_id": "ORD-1001",
+    "status": "delivered",
+    "days_since_delivery": 4
+  },
+  "musteri_mesaji": "Ürün elime ulaştı fakat arka kapağında derin bir çizik var, ilgili fotoğrafları eke ekliyorum. Kusurlu ürün nedeniyle iade talep ediyorum.",
+  "iade_gecmisi": {
+    "total_returns": 0,
+    "abusive_behavior_flag": false
+  },
+  "politika": {
+    "version": "v1.2",
+    "rule": "Müşteriler, teslimattan sonraki 14 gün içinde kanıt sunarak kusurlu ürünler için tam iade (full_refund) talep edebilir."
+  }
+}

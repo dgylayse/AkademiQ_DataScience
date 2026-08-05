@@ -1,0 +1,17 @@
+{
+  "senaryo_adi": "Eski Politika Çelişmesi",
+  "siparis_verisi": {
+    "order_id": "ORD-1003",
+    "status": "delivered",
+    "days_since_delivery": 28
+  },
+  "musteri_mesaji": "Tüketici hakları sözleşmenizin v1.0 sürümüne göre 30 gün koşulsuz iade hakkım bulunuyor, iademi gerçekleştirin.",
+  "iade_gecmisi": {
+    "total_returns": 0,
+    "abusive_behavior_flag": false
+  },
+  "politika": {
+    "version": "v1.0",
+    "rule": "Müşteriler 30 gün içinde koşulsuz iade yapabilir."
+  }
+}
