@@ -197,5 +197,5 @@ Bu repository, AkademiQ Data Science eğitimi boyunca haftalık olarak hazırlan
 * Kullanılan data set: [musteri_rfm_dt.csv](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_8-9-11-12_Data_Set%3A%20musteri_rfm_dt.csv)
 * Kullanılan desarilize: [svm_model.pkl](https://github.com/dgylayse/AkademiQ_DataScience/blob/main/Hafta_11-12_Desarilize%20%3Asvm_model.pkl)
 ---
-Bu repo, her hafta yeni veri setleri ve farklı makine öğrenmesi senaryoları ile güncellenmeye devam etmektedir.
+
 
